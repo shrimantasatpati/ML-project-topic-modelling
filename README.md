@@ -23,7 +23,7 @@ Ensure you have met the following requirements:
 * You have installed Tensorflow 2.
 ***
 
-# Models:
+# Model used
 * LDA model and exploratory data analysis for the data.
 * BERT model.
 ***
