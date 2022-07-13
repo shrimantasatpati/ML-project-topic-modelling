@@ -21,10 +21,12 @@
 Ensure you have met the following requirements:
 * You have installed Python 3.
 * You have installed Tensorflow 2.
+***
 
 # Models:
 * 1. LDA model and exploratory data analysis for the data.
 * 2. BERT model.
-
+***
 
 # Authors - Shrimanta Satpati.
+***
